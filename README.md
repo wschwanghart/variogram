@@ -1,0 +1,4 @@
+variogram
+=========
+
+Experimental (Semi-) Variogram
