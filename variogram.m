@@ -60,8 +60,8 @@ function S = variogram(x,y,varargin)
 %
 % See also: KRIGING, VARIOGRAMFIT
 %
-% Date: 22. June, 2014
-% Author: Wolfgang Schwanghart
+% Date: 8. August, 2014
+% Author: Wolfgang Schwanghart (w.schwanghart[at]geo.uni-potsdam.de)
 
 
 % extent of dataset
