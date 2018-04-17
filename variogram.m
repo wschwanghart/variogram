@@ -51,16 +51,16 @@ function S = variogram(x,y,varargin)
 %     ylabel('frequency'); xlabel('z')
 %     title('histogram of z-values')
 %     subplot(2,2,3)
-%     d = variogram([x y],z,'plotit',true,'nrbins',50);
+%     d = variogram([x y],z,'plot',true,'nrbins',50);
 %     title('Isotropic variogram')
 %     subplot(2,2,4)
-%     d2 = variogram([x y],z,'plotit',true,'nrbins',50,'anisotropy',true);
+%     d2 = variogram([x y],z,'plot',true,'nrbins',50,'anisotropy',true);
 %     title('Anisotropic variogram')
 %
 %
 % See also: KRIGING, VARIOGRAMFIT
 %
-% Date: 8. August, 2014
+% Date: 17. April, 2018
 % Author: Wolfgang Schwanghart (w.schwanghart[at]geo.uni-potsdam.de)
 
 
